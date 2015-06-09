@@ -1,0 +1,15 @@
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\bin\Debug\WSDForSenseEval.exe.config
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\bin\Debug\WSDForSenseEval.exe
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\bin\Debug\WSDForSenseEval.pdb
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\obj\Debug\WSDForSenseEval.csprojResolveAssemblyReference.cache
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\obj\Debug\WSDForSenseEval.exe
+G:\GitHub\Word-Sense-Disambiguation\WSDForSenseEval\WSDForSenseEval\obj\Debug\WSDForSenseEval.pdb
+F:\Users\Milind\Documents\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\bin\Debug\WSDForSenseEval.exe.config
+F:\Users\Milind\Documents\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\obj\Debug\WSDForSenseEval.exe
+F:\Users\Milind\Documents\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\obj\Debug\WSDForSenseEval.pdb
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\bin\Debug\WSDForSenseEval.exe.config
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\obj\Debug\WSDForSenseEval.exe
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\obj\Debug\WSDForSenseEval.pdb
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\bin\Debug\WSDForSenseEval.exe
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\bin\Debug\WSDForSenseEval.pdb
+G:\GitHub\Word-Sense-Disambiguation-New\WSDForSenseEval\obj\Debug\WSDForSenseEval.csprojResolveAssemblyReference.cache
